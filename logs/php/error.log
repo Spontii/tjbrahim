@@ -1,0 +1,3 @@
+[06-Sep-2023 19:17:08 UTC] PHP Warning:  Undefined array key 1 in C:\Users\jassi\Local Sites\tjbrahim\app\public\wp-content\plugins\translatepress-multilingual\includes\class-plugin-optin.php on line 88
+[06-Sep-2023 19:17:08 UTC] WordPress database error Table 'local.wp_trp_dictionary_en_us_' doesn't exist for query SELECT COUNT(id) FROM wp_trp_dictionary_en_us_ WHERE translated != '' made by do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, TRP_Plugin_Optin->process_optin_actions
+[08-Sep-2023 17:13:10 UTC] PHP Warning:  Undefined array key "data" in C:\Users\jassi\Local Sites\tjbrahim\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
